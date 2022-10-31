@@ -1,7 +1,7 @@
 # RRTCrowdControl
-WIP Crowd Control extension for Pokemon Mystery Dungeon: Red Rescue Team. 
-cs file was based on the Mega Man 2 example pack found here: https://crowdcontrol.live/guides/5121/CrowdControlSDK
-For a demo of some of the effects, view https://youtu.be/h5wbwGEwC-w
+WIP Crowd Control extension for Pokemon Mystery Dungeon: Red Rescue Team.   
+cs file was based on the Mega Man 2 example pack found here: https://crowdcontrol.live/guides/5121/CrowdControlSDK  
+For a demo of some of the effects, view https://youtu.be/h5wbwGEwC-w  
 
 Current Effects:
 Floor Up/Down: Change the floor by up to 99  
